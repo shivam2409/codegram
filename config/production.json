@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://shivam24:shivam24@codegram-dsxpl.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientID": "Iv1.884d9f5cc72e7758",
+  "githubSecret": "478075a922fea87fa5493db6d12032b10587a35b"
+}
